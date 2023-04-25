@@ -4,7 +4,7 @@ metadata:
 components:
   - name: tools
     container:
-      image: quay.io/devfile/universal-developer-image:ubi8-latest
+      image: samsung.io/tizen-studio/cli:prism
       endpoints:
         - exposure: public
           name: nodejs
