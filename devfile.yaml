@@ -4,7 +4,7 @@ metadata:
 components:
   - name: tools
     container:
-      image: samsung.io/tizen-studio/cli:prism
+      image: quay.io.io/tizen-studio/cli:prism
       endpoints:
         - exposure: public
           name: nodejs
